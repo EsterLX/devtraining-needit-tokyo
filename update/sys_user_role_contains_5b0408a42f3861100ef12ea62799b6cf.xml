@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_58872_needit.admin" name="x_58872_needit.admin">1725f3542ff461100ef12ea62799b6f1</contains>
+        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-31 08:27:08</sys_created_on>
+        <sys_id>5b0408a42f3861100ef12ea62799b6cf</sys_id>
+        <sys_name>x_58872_needit.admin.x_58872_needit.needit_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_contains_5b0408a42f3861100ef12ea62799b6cf</sys_update_name>
+    </sys_user_role_contains>
+</record_update>
